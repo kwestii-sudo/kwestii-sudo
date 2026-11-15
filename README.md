@@ -4,7 +4,7 @@
 
 ### Cybersecurity • Cloud Security • AI-Assisted Security
 
-**B.S. Cybersecurity and Information Assurance** | **CompTIA Security+ • CySA+ • PenTest+**
+**B.S. Cybersecurity and Information Assurance** | **CompTIA • ITIL 4 • LPI Certified**
 
 I build and document hands-on projects in **AWS, Microsoft Azure, security analysis, Python, and intelligent security tooling**.
 
@@ -54,10 +54,17 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 ## 🎓 Education & Certifications
 
+**Education**
 - **B.S. Cybersecurity and Information Assurance** — Western Governors University
+
+**Professional Certifications**
 - **CompTIA Security+**
-- **CompTIA CySA+**
+- **CompTIA CySA+ (Cybersecurity Analyst)**
 - **CompTIA PenTest+ (PT0-003)**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **ITIL 4 Foundation**
+- **LPI Linux Essentials**
 
 ## 🔭 What I'm Exploring Next
 
