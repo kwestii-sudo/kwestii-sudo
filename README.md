@@ -24,6 +24,15 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 ## 🚀 Featured Projects
 
+### 🔎 Featured: AWS VPC Monitoring with Flow Logs
+
+[![AWS VPC Monitoring with Flow Logs — cloud security project thumbnail](https://raw.githubusercontent.com/kwestii-sudo/aws-vpc-flow-logs-monitoring/main/assets/aws-vpc-flow-logs-thumbnail.jpg)](https://github.com/kwestii-sudo/aws-vpc-flow-logs-monitoring)
+
+**[View the AWS VPC Flow Logs Monitoring project](https://github.com/kwestii-sudo/aws-vpc-flow-logs-monitoring)** — Two VPCs, private VPC peering, EC2 connectivity troubleshooting, IAM service permissions, VPC Flow Logs, and CloudWatch Logs Insights analysis of accepted and rejected network traffic.
+
+*The image is a project illustration; the repository contains the actual lab configuration, logs, and screenshots.*
+
+
 ### ☁️ Cloud Infrastructure & Security
 
 | Project | What I built and demonstrated |
@@ -31,6 +40,7 @@ I enjoy turning security concepts into practical implementations: designing clou
 | [**Azure Cloud Infrastructure & Security Lab**](https://github.com/kwestii-sudo/azure-cloud-infrastructure-security-lab) | A Windows-focused Azure environment using virtual networking, Network Security Groups, a Windows Server VM, managed identity, RBAC, Azure Policy, and Activity Logs. Removed permanent public VM exposure after setup. |
 | [**AWS IAM Cloud Security Lab**](https://github.com/kwestii-sudo/AWS-IAM-Cloud-Security-Lab) | An IAM user/group and tag-based EC2 permission policy, with development-versus-production access tests and IAM Policy Simulator validation. |
 | [**AWS VPC Traffic Flow & Security Lab**](https://github.com/kwestii-sudo/AWS-VPC-Traffic-Flow-Security-Lab) | VPC networking with public subnet routing, an internet gateway, security groups, network ACLs, AWS CLI, and EC2 Global View. |
+| [**AWS VPC Monitoring with Flow Logs**](https://github.com/kwestii-sudo/aws-vpc-flow-logs-monitoring) | Built two VPCs and peered their private networks; configured a VPC Flow Log, IAM service role, CloudWatch logging, and Logs Insights queries to investigate network traffic and troubleshoot connectivity. |
 
 ### 🛡️ Security Tools, Automation & Applied ML
 
@@ -44,7 +54,7 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 ## 🧰 Technical Skills & Tools
 
-**Cloud platforms:** AWS (IAM, EC2, VPC, security groups, NACLs, CloudShell/CLI) · Microsoft Azure (VNets, NSGs, VMs, RBAC, managed identity, Azure Policy, Activity Logs)
+**Cloud platforms:** AWS (IAM, EC2, VPC, VPC peering, VPC Flow Logs, CloudWatch Logs Insights, security groups, NACLs, CloudShell/CLI) · Microsoft Azure (VNets, NSGs, VMs, RBAC, managed identity, Azure Policy, Activity Logs)
 
 **Cybersecurity:** Identity and access management · Least privilege · Network segmentation · Security alert triage · Phishing analysis · MITRE ATT&CK concepts · Security documentation
 
