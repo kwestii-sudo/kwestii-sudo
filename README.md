@@ -24,7 +24,7 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 ## 🚀 Featured Projects
 
-### 🔎 Featured: AWS VPC Monitoring with Flow Logs
+### 🔎 Recent Project: AWS VPC Monitoring with Flow Logs
 
 [![AWS VPC Monitoring with Flow Logs — cloud security project thumbnail](https://raw.githubusercontent.com/kwestii-sudo/aws-vpc-flow-logs-monitoring/main/assets/aws-vpc-flow-logs-thumbnail.jpg)](https://github.com/kwestii-sudo/aws-vpc-flow-logs-monitoring)
 
