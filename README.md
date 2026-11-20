@@ -22,9 +22,9 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 **Current focus:** Building on my AWS and Azure foundations while exploring AI-assisted cybersecurity, security automation, and cloud security engineering.
 
-## 🚀 Featured Projects
+## 🆕 Recent Project
 
-### 🔎 Recent Project: AWS VPC Monitoring with Flow Logs
+### AWS VPC Monitoring with Flow Logs
 
 [![AWS VPC Monitoring with Flow Logs — cloud security project thumbnail](https://raw.githubusercontent.com/kwestii-sudo/aws-vpc-flow-logs-monitoring/main/assets/aws-vpc-flow-logs-thumbnail.jpg)](https://github.com/kwestii-sudo/aws-vpc-flow-logs-monitoring)
 
@@ -32,6 +32,8 @@ I enjoy turning security concepts into practical implementations: designing clou
 
 *The image is a project illustration; the repository contains the actual lab configuration, logs, and screenshots.*
 
+
+## 🚀 Projects
 
 ### ☁️ Cloud Infrastructure & Security
 
